@@ -22,6 +22,8 @@ Pillus adalah aplikasi Flutter untuk mengelola server Docker dari jarak jauh mel
 
 Alih-alih membuka Docker socket secara langsung, Pillus terhubung ke server melalui SSH dan menyediakan antarmuka grafis untuk mengelola container, image, volume, network, project Docker Compose, file, serta terminal server.
 
+Proyek ini terinspirasi dari [Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) dan dikembangkan sebagai versi lintas platform dengan pendekatan yang lebih modern untuk pengelolaan Docker melalui SSH/SFTP.
+
 ## Fitur
 
 | Kategori | Fitur |
